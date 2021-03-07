@@ -85,7 +85,9 @@
 					    <configuration>
         <archive>
             <manifest>
-                <packageName>com.pulkit.TEST</packageName>
+                <addClasspath>true</addClasspath>
+            <classpathPrefix>lib/</classpathPrefix>
+            <mainClass>com.pulkit.TEST.App</mainClass>
             </manifest>
             <manifestEntries>
                 <Created-By>Pulkit Chandra</Created-By>
