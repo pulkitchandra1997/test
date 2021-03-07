@@ -68,7 +68,7 @@
 							<manifest>
 								<addClasspath>true</addClasspath>
 								<classpathPrefix>lib/</classpathPrefix>
-								<mainClass>com.pulkit.TEST.App</mainClass>
+								<mainClass></mainClass>
 							</manifest>
 							<manifestEntries>
 								<Created-By>Pulkit Chandra</Created-By>
